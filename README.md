@@ -1,7 +1,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LIMr1209&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LIMr1209&layout=compact&theme=material-palenight" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
 
 
